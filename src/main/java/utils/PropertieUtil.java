@@ -8,7 +8,7 @@ import java.util.Properties;
 
 public class PropertieUtil {
 
-    public static final String propertieFile = "config/config.properties";
+    public static final String propertieFile = "config.properties";
     private static final Logger logger = LoggerFactory.getLogger(PropertieUtil.class);
     private static Properties props;
 
